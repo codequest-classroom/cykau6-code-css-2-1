@@ -1,14 +1,14 @@
-# 🚀 **MISSION: {{mission.title}}** 
+# 🚀 **MISSION: CSS Selectors** 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Points-{{mission.points}}-brightgreen?style=for-the-badge" alt="Points"/>
-  <img src="https://img.shields.io/badge/Badge-{{mission.badge}}-blue?style=for-the-badge" alt="Badge"/>
-  <img src="https://img.shields.io/badge/Level-{{mission.level}}-orange?style=for-the-badge" alt="Level"/>
+  <img src="https://img.shields.io/badge/Points-8-brightgreen?style=for-the-badge" alt="Points"/>
+  <img src="https://img.shields.io/badge/Badge-css-novice-blue?style=for-the-badge" alt="Badge"/>
+  <img src="https://img.shields.io/badge/Level-web-level-2-orange?style=for-the-badge" alt="Level"/>
 </p>
 
 ---
 
-## 👋 **HEY {{student.name}}!** 
+## 👋 **HEY TEST!** 
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding gif"/>
@@ -26,7 +26,7 @@ Welcome to your next coding challenge! Get ready to level up your skills! 🎮
 <br>
 
 ### 🎯 **What You'll Learn**
-{{mission.description}}
+Style elements with CSS selectors
 
 ### 📖 **Step-by-Step Guide**
 
@@ -78,7 +78,7 @@ Now modify this code to make it YOUR own!
 
 <div align="center">
   
-[![OPEN IN STACKBLITZ](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/codequest-classroom/{{repo-name}})
+[![OPEN IN STACKBLITZ](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/codequest-classroom/cykau6-code-css-2-1)
 
 **✨ One click → Instant coding environment! No installation needed! ✨**
 
@@ -90,22 +90,31 @@ Now modify this code to make it YOUR own!
 
 <div style="border-left: 4px solid #4CAF50; padding-left: 20px; margin: 20px 0;">
   
-### {{mission.instructions}}
+### Style elements with CSS selectors
 
 </div>
 
 ### ✅ **CHECKLIST**
 
-{{#each mission.requirements}}
-- [ ] {{this}}
-{{/each}}
+
+- [ ] Must have a style.css file
+
+
+- [ ] Must style h1 with color
+
+
+- [ ] Must style paragraphs with font-size
+
+
+- [ ] HTML must link to the CSS file
+
 
 ---
 
 ## 📁 **YOUR FILES**
 
 ```
-📦 {{repo-name}}
+📦 cykau6-code-css-2-1
  ┣ 📂 submissions
  ┃ ┣ 📜 index.html     ← Write your HTML here!
  ┃ ┗ 📜 style.css      ← Write your CSS here!
@@ -182,7 +191,7 @@ Now modify this code to make it YOUR own!
 
 | Complete Mission | Earn |
 |-----------------|------|
-| ✅ Pass all checks | ⭐ {{mission.points}} XP |
+| ✅ Pass all checks | ⭐ 8 XP |
 | 🎯 First try | 💪 Bonus confidence boost! |
 | 🏅 Get badge | 🔓 Unlock next mission |
 
@@ -203,7 +212,7 @@ Now modify this code to make it YOUR own!
   
 ### 🎉 **READY? LET'S DO THIS!** 🎉
 
-[![START CODING](https://img.shields.io/badge/🚀-CLICK_TO_START_CODING-4CAF50?style=for-the-badge&logo=github)](https://stackblitz.com/github/codequest-classroom/{{repo-name}})
+[![START CODING](https://img.shields.io/badge/🚀-CLICK_TO_START_CODING-4CAF50?style=for-the-badge&logo=github)](https://stackblitz.com/github/codequest-classroom/cykau6-code-css-2-1)
 
 *Remember: Every expert was once a beginner. You've got this!* 💪
 
