@@ -1,1 +1,20 @@
-﻿{}
+{
+  "id": "css-2-1",
+  "title": "CSS Selectors",
+  "level": "web-level-2",
+  "order": 1,
+  "points": 8,
+  "badge": "css-novice",
+  "description": "Style elements with CSS selectors",
+  "template": "basic-web-mission",
+  "nextInLevel": [
+    "css-2-2",
+    "css-2-3"
+  ],
+  "requirements": [
+    "Must have a style.css file",
+    "Must style h1 with color",
+    "Must style paragraphs with font-size",
+    "HTML must link to the CSS file"
+  ]
+}
